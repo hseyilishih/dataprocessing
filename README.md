@@ -1,5 +1,3 @@
-# dataprocessing
-
 # os.walk.py
 
 1.	使用Spyder IDE, 建立base以外的獨立工作環境,import所需套件
